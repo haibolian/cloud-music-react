@@ -16,12 +16,12 @@ export const Section = styled.section`
 export const Nav = styled.nav`
   width: 300px;
   height: 100%;
-  background-color: blue;
+  background-color: #7e7e86;
 `
 
 export const Main = styled.main`
   flex: 1;
-  background-color: red;
+  background-color: #958d8d;
 `
 
 export const Footer = styled.footer`

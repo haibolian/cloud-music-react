@@ -1,11 +1,10 @@
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Nav from './components/Nav';
-import Main from './components/Main';
-import Section from './components/Section'
+import Header from './components/header';
+import Footer from './components/footer';
+import Nav from './components/nav';
+import Main from './components/main';
+import { Section } from './css'
 
 export default () => {
-  
   return (
     <div className="music-layout">
       <Header />
